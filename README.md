@@ -1,11 +1,10 @@
 # isitchristmas written by golang
 
-## original 
+## Original 
 - https://isitchristmas.com/
 
-## how to use
+## How to use
 ```bash
-# close this repo
 git clone git@github.com:yoshiyuki-140/isitchristmas-go.git
 cd isitchristmas-go
 docker compose up -d
