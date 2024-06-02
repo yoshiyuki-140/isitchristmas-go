@@ -11,5 +11,5 @@ cd isitchristmas-go
 docker compose up -d
 ```
 
-Access to `localhost:8080`.
+Then, access to `localhost:8080`.
 If it is christmas for you, that page show an message "Yes"
